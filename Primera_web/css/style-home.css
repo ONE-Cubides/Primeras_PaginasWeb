@@ -1,52 +1,32 @@
-.titulo-principal{
-    padding-left: 30px;
-}
-
-#banner{
+.banner{
     width: 100%;
 }
 
-.principal{
-    background-color: #CCCCCC;
-    padding: 20px;
-}
-
-.titulo-centralizado{
+.titulo-principal{
     text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
 }
 
-p{
-    text-align: center;
+.principal p{
+    margin: 0 0 1em;
 }
 
-em strong{
-    color: #FF0000;
+.principal strong{
+    font-weight: bold;
 }
 
-#mision{
-    font-size: 20px;
+.principal em{
+    font-size: italic;
 }
 
-.diferenciales{
-    background-color: #FFFFFF;
-    padding: 30px;
+.utensilios{
+    width: 120px;
+    float: left;
+    margin: 0 20px 20px 0;
 }
 
-h2{
-    text-align: center;
-}
-
-ul{
-    display: inline-block;
-    vertical-align: top;
-    width: 20%;
-    margin-right: 15%;
-}
-
-.items{
-    font-style: italic;
-}
-
-.imgDiferencial{
-    width: 50%;
+.imagenDiferenciales{
+    width: 60%;
 }
